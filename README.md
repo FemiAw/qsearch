@@ -1,11 +1,17 @@
-## qsearch
+<h1 align="center">
+  <img
+    alt="compete_graph_animation"
+    src="https://user-images.githubusercontent.com/9468947/29240749-37660906-7f63-11e7-9f34-d570578ee3d0.gif"
+  />
+  <br />
+  qsearch
+</h1>
 
-Spatial quantum search (Grover's search) package based on the continuous time quantum walk.
+<h4 align="center">
+  Spatial quantum search (Grover's search) package based on the continuous time quantum walk.
+</h4>
 
-
-![compete_graph_animation](https://user-images.githubusercontent.com/9468947/29240749-37660906-7f63-11e7-9f34-d570578ee3d0.gif)
-
-Success probability simulation for complete graph where the purple nodes is the maked one. 
+Success probability simulation for complete graph where the purple nodes is the maked one.
 
 ### Dependencies
 
