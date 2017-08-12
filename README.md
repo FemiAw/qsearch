@@ -11,7 +11,7 @@
   Spatial quantum search (Grover's search) package based on the continuous time quantum walk.
 </h4>
 
-<center>Success probability simulation for complete graph where the purple nodes is the maked one.<center>
+<p align="center">Success probability simulation for complete graph where the purple nodes is the maked one.</p>
 
 ### Dependencies
 
